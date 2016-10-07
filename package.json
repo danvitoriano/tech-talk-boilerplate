@@ -1,0 +1,19 @@
+{
+  "name": "tech-talk-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danvitoriano/tech-talk-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danvitoriano/tech-talk-boilerplate/issues"
+  },
+  "homepage": "https://github.com/danvitoriano/tech-talk-boilerplate#readme"
+}
